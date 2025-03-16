@@ -60,7 +60,7 @@ Sample images of the NiFi flow and dashboard are saved in the `images` folder.
    - Start NiFi and open the browser at http://localhost:8080/nifi.
 
 3. **Load `Crypto_Flow.json`**
-   - Create a new process group and load the template from the JSON file.
+   - Create a new process group and load the flow definition from the JSON file.
 
 4. **Check parameter contexts and update them if necessary.**
 5. **Start the flow and wait for data to be inserted into PostgreSQL.**
